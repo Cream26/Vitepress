@@ -1,0 +1,24 @@
+:root {
+      --vp-button-brand-bg:#593692
+      --vp-font-family-base: 
+}
+[data-v-ce5aceea] .logo {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.title[data-v-ce5aceea] {
+  font-size: 2rem;
+  font-weight: 500;
+  color:#593692;
+}
+
+.VPButton.brand[data-v-8f9ba83d] {
+  background-color: #593692;
+}
+.VPButton.brand[data-v-8f9ba83d]:hover {
+  background-color: #593692;
+}
+.VPNavBarMenuLink[data-v-6fa997bd]{
+  font-size: 1.5rem;
+  color: #593692;
+}
